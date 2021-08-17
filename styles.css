@@ -1,0 +1,20 @@
+.button{
+    margin-top: 15px;
+}
+.u{
+    display: flex;
+    flex-direction: row;
+
+}
+
+.result{
+    background-color: rgb(5, 196, 202);
+    margin: 20px;
+    display: flex;
+    
+}
+
+.form{
+    background-color: blue;
+    color: white;
+}
